@@ -3,6 +3,18 @@
 > **Time:** 3 business days  
 > **Submission:** GitHub repository (public)
 
+## Getting Started
+
+Clone the repository to get the master data and access the API endpoint:
+
+```bash
+git clone https://github.com/harristran-ap/RFID_Data-Analyst_Case-Study-Test.git
+```
+or using GitHub CLI:
+```bash
+gh repo clone harristran-ap/RFID_Data-Analyst_Case-Study-Test
+```
+
 ## Context
 
 You have just joined the **Data** team at a manufacturing plant. The factory operates 4 production lines (Line 1-4), producing 100 products across 4 categories.
