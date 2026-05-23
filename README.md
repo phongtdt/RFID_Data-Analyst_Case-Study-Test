@@ -8,11 +8,11 @@
 Clone the repository to get the master data and access the API endpoint:
 
 ```bash
-git clone https://github.com/harristran-ap/RFID_Data-Analyst_Case-Study-Test.git
+git clone https://github.com/phongtdt/RFID_Data-Analyst_Case-Study-Test.git
 ```
 or using GitHub CLI:
 ```bash
-gh repo clone harristran-ap/RFID_Data-Analyst_Case-Study-Test
+gh repo clone phongtdt/RFID_Data-Analyst_Case-Study-Test
 ```
 
 ## Context
@@ -56,7 +56,7 @@ Defect data logged from the production floor.
 
 **Endpoint:**
 ```
-GET https://raw.githubusercontent.com/harristran-ap/RFID_Data-Analyst_Case-Study-Test/main/mock-api/defect_records.json
+GET https://raw.githubusercontent.com/phongtdt/RFID_Data-Analyst_Case-Study-Test/main/mock-api/defect_records.json
 ```
 
 **Response format:** JSON array
